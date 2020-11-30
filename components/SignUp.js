@@ -29,12 +29,6 @@ export default class SignUp extends ValidationComponent {
     });
   };
 
- 
-  //function to handle when google signup btn is clicked on
-  handleGoogleSignUpBtnClick() {
-    console.log('google signup clicked');
-  }
-
   //function to handle when sign in btn is clicked on
   handleSignInBtnClick() {
     console.log('sign in clicked');
